@@ -1,0 +1,20 @@
+body {
+  margin: 50px 200px;
+}
+img {
+  height: 300px;
+}
+
+hr{
+    width:800px ;
+}
+
+h1{
+    font-weight: 500;
+}
+span {
+  font-weight: bold;
+}
+p{
+    width: 800px;
+}
